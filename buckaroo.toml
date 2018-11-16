@@ -1,1 +1,5 @@
 targets = [ "//:property-tree" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-any"
+version = "branch=master"
